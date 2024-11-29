@@ -15,7 +15,7 @@ This website showcases skills, projects, and contact information. It is built us
 - [Feedback](#feedback)
 ## Demo
 
-You can visit the live site at ( https://i-m-sushmita.github.io/CODSOFT-Task1-Portfolio/)
+You can visit the live site at (https://i-m-sushmita.github.io/My-Portfolio/)
 
 ## Features
 
